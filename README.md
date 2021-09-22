@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+![Aqtion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aqtion&count_private=true&show_icons=true&theme=radical)
+
 <!--
 **Aqtion/Aqtion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-![Aqtion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aqtion&count_private=true&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
