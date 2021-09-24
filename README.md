@@ -5,6 +5,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
+<div align="left" style="margin: 40px 0">
+    <a href="https://github.com/KaivalSShah/github-profile-views-counter">
+        <img width="120px" src="https://komarev.com/ghpvc/?username=KaivalSShah0729&color=DE002D">
+    </a>
+</div>
+
 
 ![Aqtion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aqtion&count_private=true&show_icons=true&theme=radical)
 
