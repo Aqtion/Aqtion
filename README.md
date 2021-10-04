@@ -7,7 +7,7 @@
 
 <div align="left" style="margin: 40px 0">
     <a href="https://github.com/KaivalSShah/github-profile-views-counter">
-        <img width="120px" src="https://komarev.com/ghpvc/?username=KaivalSShah0729&color=DE002D">
+        <img width="120px" src="https://komarev.com/ghpvc/?username=Aqtion0729&color=DE002D">
     </a>
 </div>
 
