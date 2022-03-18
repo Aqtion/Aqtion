@@ -6,11 +6,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
-<div align="left" style="margin: 40px 0">
-    <a href="https://github.com/KaivalSShah/github-profile-views-counter">
-        <img width="120px" src="https://komarev.com/ghpvc/?username=Aqtion0729&color=DE002D">
-    </a>
-</div>
+
 
 <!--
 **Aqtion/Aqtion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
