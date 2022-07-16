@@ -7,7 +7,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 
 <!--
 **Aqtion/Aqtion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
