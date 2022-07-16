@@ -7,7 +7,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
-[![wakatime](https://wakatime.com/badge/user/f4d32209-e385-452c-8b4c-ad01fe4f259d.svg)](https://wakatime.com/@f4d32209-e385-452c-8b4c-ad01fe4f259d)
+
 
 <!--
 **Aqtion/Aqtion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
