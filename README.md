@@ -1,5 +1,7 @@
-<h1 align = "center">Hi there 👋</h1>
+##Hi there 👋
+
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 <div align = "center">
 <h1>Languages</h1>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
