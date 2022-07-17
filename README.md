@@ -14,10 +14,10 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aqtion" />
+
 
 ![image](https://github-readme-stats.vercel.app/api?username=Aqtion)
-
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aqtion" />
 </div>
 <!--
 **Aqtion/Aqtion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
