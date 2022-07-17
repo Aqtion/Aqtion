@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align = "center">  Hi there 👋 </h1>
 
 <div align = "center">
 <h1>Languages</h1>
