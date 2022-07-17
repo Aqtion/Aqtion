@@ -31,9 +31,7 @@
   <img src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 </div>
 <div align = "center">
-![image](https://github-readme-stats.vercel.app/api?username=Aqtion)
-
-
+  <img src = "https://github-readme-stats.vercel.app/api?username=Aqtion" />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aqtion" />
   </div>
 <!--
