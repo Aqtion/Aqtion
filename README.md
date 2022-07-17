@@ -17,16 +17,18 @@
 <img src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
 ### IDEs
+<div>
   <img src = "https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src = "https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
   <img src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</div>
 
 ### Prototyping
-
+<div>
   <img src = "https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" />
   <img src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-
+</div>
 <img src = "https://github-readme-stats.vercel.app/api?username=Aqtion" />
 
   
