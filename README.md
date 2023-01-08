@@ -32,7 +32,8 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=Aqtion" />
 
   
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aqtion" />
+[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aqtion&count_private=true&theme=tokyonight&show_icons=true&compact=true&custom_title=About%20Languages)](https://wakatime.com/@aqtion)
+
 <!--
 **Aqtion/Aqtion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
