@@ -29,7 +29,6 @@
   <img src = "https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" />
   <img src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 </div>
-<img src = "https://github-readme-stats.vercel.app/api?username=Aqtion" />
 
   
 [![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aqtion&count_private=true&theme=tokyonight&show_icons=true&compact=true&custom_title=About%20Languages)](https://wakatime.com/@aqtion)
